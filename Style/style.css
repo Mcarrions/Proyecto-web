@@ -40,6 +40,12 @@ color:blue;
  font-size:25px;
 }
 
+.extLinksParagraph{
+    color:blue;
+        text-align: left;
+        font-size:18px;
+    }
+
 .extLinks{
 color:blue;
     text-align: left;
